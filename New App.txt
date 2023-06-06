@@ -1,3 +1,5 @@
 Some new changes
 
 New function
+
+New class
