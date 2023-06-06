@@ -1,0 +1,9 @@
+Some new changes
+
+New function
+
+New class
+
+Work with dll2
+
+Work with dll3
