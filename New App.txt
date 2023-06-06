@@ -3,3 +3,5 @@ Some new changes
 New function
 
 New class
+
+Work with dll2
