@@ -7,5 +7,3 @@ New class
 Work with dll2
 
 Work with dll3
-
-New feature WITH BUG!!!
